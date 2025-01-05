@@ -1,0 +1,15 @@
+del e:\iso\222\windows\inf\bthpan.inf /y
+del e:\iso\222\windows\inf\bthprint.inf /y
+del e:\iso\222\windows\inf\bthspp.inf /y
+del e:\iso\222\windows\inf\circlass.inf /y
+del e:\iso\222\windows\inf\hidbth.inf /y
+del e:\iso\222\windows\inf\hidi2c.inf /y
+del e:\iso\222\windows\inf\hidir.inf /y
+del e:\iso\222\windows\inf\hidirkbd.inf /y
+del e:\iso\222\windows\inf\hidspi_km.inf /y
+del e:\iso\222\windows\inf\mdmbtmdm.inf /y
+del e:\iso\222\windows\inf\mdmirmdm.inf /y
+del e:\iso\222\windows\inf\mdmnokia.inf /y
+del e:\iso\222\windows\inf\msdri.inf /y
+del e:\iso\222\windows\inf\netirda.inf /y
+del e:\iso\222\windows\inf\usbcir.inf /y
